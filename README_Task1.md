@@ -26,5 +26,5 @@ Classify Iris flowers into 3 species using Machine Learning + Data Visualization
 [[View on nbviewer](https://nbviewer.org/github/Edugusrivani/CodeAlpha_Tasks/blob/main/Task1_Iris_Classification.ipynb)]
 
 ---
-💡 **Note**: IF GITHUB PREVIEW SHOWS AN ERROR, PLEASE USE THE NBVIEWER LINK
-              ALL GRAPHS AND OUTPUTS WILL BE VISIBLE
+💡 **Note**: **IF GITHUB PREVIEW SHOWS AN ERROR, PLEASE USE THE NBVIEWER LINK **
+              **ALL GRAPHS AND OUTPUTS WILL BE VISIBLE 100%, NO ERRORS **
